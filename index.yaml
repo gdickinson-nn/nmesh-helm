@@ -10,5 +10,5 @@ entries:
     - dotnet
     name: nmesh-svc
     urls:
-    - https://artifactory.glhec.org/artifactory/helm-local/nmesh-svc-1.3.0.tgz
+    - https://raw.githubusercontent.com/gdickinson-nn/nmesh-helm/main/nmesh-svc-1.3.0.tgz
     version: 1.3.0
